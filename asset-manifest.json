@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/awsui-react-template/static/css/main.a617e044.chunk.css",
-    "main.js": "/awsui-react-template/static/js/main.26626182.chunk.js",
-    "main.js.map": "/awsui-react-template/static/js/main.26626182.chunk.js.map",
-    "runtime-main.js": "/awsui-react-template/static/js/runtime-main.e498cd7a.js",
-    "runtime-main.js.map": "/awsui-react-template/static/js/runtime-main.e498cd7a.js.map",
-    "static/js/2.5fcd5763.chunk.js": "/awsui-react-template/static/js/2.5fcd5763.chunk.js",
-    "static/js/2.5fcd5763.chunk.js.map": "/awsui-react-template/static/js/2.5fcd5763.chunk.js.map",
-    "static/js/3.5cd3730d.chunk.js": "/awsui-react-template/static/js/3.5cd3730d.chunk.js",
-    "static/js/3.5cd3730d.chunk.js.map": "/awsui-react-template/static/js/3.5cd3730d.chunk.js.map",
+    "main.js": "/awsui-react-template/static/js/main.13a6e7c0.chunk.js",
+    "main.js.map": "/awsui-react-template/static/js/main.13a6e7c0.chunk.js.map",
+    "runtime-main.js": "/awsui-react-template/static/js/runtime-main.9a42c788.js",
+    "runtime-main.js.map": "/awsui-react-template/static/js/runtime-main.9a42c788.js.map",
+    "static/css/2.44052f49.chunk.css": "/awsui-react-template/static/css/2.44052f49.chunk.css",
+    "static/js/2.367c8765.chunk.js": "/awsui-react-template/static/js/2.367c8765.chunk.js",
+    "static/js/2.367c8765.chunk.js.map": "/awsui-react-template/static/js/2.367c8765.chunk.js.map",
+    "static/js/3.7341a8cf.chunk.js": "/awsui-react-template/static/js/3.7341a8cf.chunk.js",
+    "static/js/3.7341a8cf.chunk.js.map": "/awsui-react-template/static/js/3.7341a8cf.chunk.js.map",
     "index.html": "/awsui-react-template/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/awsui-react-template/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.5fcd5763.chunk.js.LICENSE.txt": "/awsui-react-template/static/js/2.5fcd5763.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/awsui-react-template/static/media/logo.6ce24c58.svg"
+    "static/css/2.44052f49.chunk.css.map": "/awsui-react-template/static/css/2.44052f49.chunk.css.map",
+    "static/js/2.367c8765.chunk.js.LICENSE.txt": "/awsui-react-template/static/js/2.367c8765.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e498cd7a.js",
-    "static/js/2.5fcd5763.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.26626182.chunk.js"
+    "static/js/runtime-main.9a42c788.js",
+    "static/css/2.44052f49.chunk.css",
+    "static/js/2.367c8765.chunk.js",
+    "static/js/main.13a6e7c0.chunk.js"
   ]
 }
